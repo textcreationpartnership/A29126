@@ -1,0 +1,399 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The great question concerning things indifferent in religious vvorship briefly stated; and tendred to the consideration of all sober and impartial men.</title>
+            <author>Bagshaw, Edward, 1629-1671.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 52 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29126</idno>
+            <idno type="STC">Wing B413A</idno>
+            <idno type="STC">ESTC R217206</idno>
+            <idno type="EEBO-CITATION">99828903</idno>
+            <idno type="PROQUEST">99828903</idno>
+            <idno type="VID">33336</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29126)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33336)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1983:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The great question concerning things indifferent in religious vvorship briefly stated; and tendred to the consideration of all sober and impartial men.</title>
+                  <author>Bagshaw, Edward, 1629-1671.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition.</edition>
+               </editionStmt>
+               <extent>[4], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Edward Bagshaw.</note>
+                  <note>Running title reads: Concerning things indifferent, &amp;c. in religious worship.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Liturgy --  Early works to 1800.</term>
+               <term>Adiaphora --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33336:1"/>
+            <p>THE GREAT QUESTION CONCERNING THINGS INDIFFERENT <hi>IN</hi> Religious VVorship, Briefly ſtated; And tendered to the Conſideration of all Sober and Impartial men.</p>
+            <p>The Second Edition.</p>
+            <q>
+               <bibl>Chillingworth <hi>Praef. §. 34.</hi>
+               </bibl>
+               <p>Not Proteſtants for rejecting, but the Church of <hi>Rome</hi> for Impoſing upon the Faith of Chriſtians, Doctrines unwritten and unne<g ref="char:EOLhyphen"/>ceſſary, and for diſturbing the Churches Peace, and dividing Unity in ſuch matters, is in an High degree preſumptuous and Schiſmatical.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1660.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:33336:2"/>
+            <pb facs="tcp:33336:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:33336:3"/>
+            <head>The Publiſher of this Treatiſe TO THE Chriſtian and Candid READER.</head>
+            <p>THough Opinions ſhould be weighed, not by the Reputation of the Authors which deliver, but by the ſtrength of the Arguments which defend them; yet it is too uſual with unobſerving Readers, to ſlight the Argument for the Author's ſake; and to conſider, not ſo much what is ſaid, as, who it is that ſayes it. Which being the common Fate of moſt Diſcourſes, ſuch eſpecially as do at all meddle with that ex<g ref="char:EOLhyphen"/>cellent, but too much abuſed Notion of <hi>Chriſtian Religion,</hi> do moſt expoſe the Writers to Cenſure: The moſt obvious Character that is faſtned upon them being, that they are Men either of Looſe, or elſe of Factious Princi<g ref="char:EOLhyphen"/>ples: and ſo being diſcredited, before they are read; their Books, how ſober ſoever, do not remove, but only ſettle and fix the Preconceived Prejudice; as in diſeaſed ſtomacks, every thing they take turns to nou<g ref="char:EOLhyphen"/>riſh and to increaſe the Humor.</p>
+            <p>That this is like to be the Fortune of this ſmall Treatiſe, I have reaſon to expect; and therefore I have ſuffered it to run abroad in the world without a Name, like one of thoſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Pliny</hi> mentions; as if it were Born of it ſelf, and begotten without a Parent. That ſo thoſe few Readers it may meet with, may only faſten upon the Faults of the Diſ<g ref="char:EOLhyphen"/>courſe it ſelf, without diverting themſelves unto that Question, wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch all Times, as well as <hi>Sauls, (2</hi> Sam. <hi>10.12.</hi>) have malice enough to make a Proverb of, <hi>But who is their Father?</hi> Yet Christian Reader, that it may appear only with its own Faults, and have no aggravating ſuſpicions upon it, from any miſtake of the Author's Deſigne or Humour, I have adventured to give thee this Account of Him.</p>
+            <p>Firſt, That He is a ſtrict Aſſertour of the <hi>Doctrine of the Church of England,</hi> as it is contained in the <hi>39. Articles;</hi> and for that which is the Prime Branch of <hi>Diſcipline,</hi> viz. <hi>Epiſcopacy,</hi> or the Subordina<g ref="char:EOLhyphen"/>tion between <hi>Biſhops</hi> and <hi>P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>esbyters;</hi> he doth own it to be of <hi>Apoſto<g ref="char:EOLhyphen"/>licall Inſtitution;</hi> that is, as he underſtands it, <hi>Jure Divino.</hi> At leaſt
+<pb facs="tcp:33336:3"/> he thinks himſelf able to ſpeak as much for the Order of <hi>Biſhops</hi> in the Church, as any can for the <hi>Baptizing of Infants,</hi> for the <hi>Change of the Sabbath,</hi> or for any thing elſe, which hath no particular Divine Precept, but only Primitive Practice and Example to warrant it. And therefore in Conformity to this Principle of His, when the <hi>Biſhops</hi> were ſunk loweſt, not only for Pomp, but likewiſe for Reputation; and when no temptation either of Profit or Convenience, but rather the contrary, could work upon him; He then choſe to be Ordained a <hi>Presbyter</hi> by one of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m: which is a greater Argument of his Reality and Stedfaſtneſſe in Judgement, than moſt of thoſe, who now ſignalize themſelves by Distinctive Habits, can pretend to; ſince ſuch may reaſonably be pre<g ref="char:EOLhyphen"/>ſumed to wear them, either becauſe they are the Faſhion, or elſe the way to Preferment.</p>
+            <p>Secondly, This I muſt ſay likewiſe, that none is more ſatisfied with the Preſent Government, or hath a more Loyall and Affectionate Eſteem for his <hi>Majeſties</hi> Perſon and Prudence, than this Writer: and therefore in ſtead of declaiming againſt, or too rigid reenforcing our <hi>Old Rites,</hi> fitted only for the Infancy of the Church (theſe being as it were its ſwad<g ref="char:EOLhyphen"/>ling-clouts, and at the beſt do but ſhow its Minority) he doth heartily wiſh that all Parties would agree to referre the whole Cauſe of <hi>Ceremonies</hi> to his <hi>Majeſties</hi> ſingle Deciſion: from whoſe unwearied endeavours in Pro<g ref="char:EOLhyphen"/>curing firſt, and afterwards in paſsing ſo full an <hi>Amneſty</hi> of all our <hi>Ci<g ref="char:EOLhyphen"/>vill Diſcords,</hi> we need not doubt but we may obtaine, that theſe Apples of <hi>Eccleſiaſtical Contention</hi> may be removed out of the way. Which are ſo very Trifles, that they would vaniſh of themſelves, but that ſome mens Pride, others want of Merit, make them ſo ſollicitous to continue them; leaſt if thoſe <hi>little Things</hi> were once taken away, they ſhould want ſomething whereby to make themſelves Remarkeable.</p>
+            <p>Laſtly, He doth profeſs yet further, that as to himſelf, he needs not that <hi>Liberty,</hi> which here he pleads for: ſince, though for the Preſent he doth make uſe of that Indulgence, which his <hi>Majeſty</hi> ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h been pleaſed to al<g ref="char:EOLhyphen"/>low unto <hi>Tender Conſciences,</hi> i. To all Rationall and Sober Chriſtians: (the continuance of which, he dares not ſo much wrong his <hi>Majeſties</hi> Goodneſs, as once to queſtion) yet ſhould his <hi>Majeſty</hi> be prevailed upon for ſome Reaſon of State, to enjoyn <hi>Outward Conformity;</hi> this Wri<g ref="char:EOLhyphen"/>ter
+<pb facs="tcp:33336:4"/> is reſolved, by the help of God, either to ſubmit with Chearfullneſs, or elſe to ſuffer with ſilence. For as there is an <hi>Active Diſobedience,</hi> viz. to Reſiſt, which is a Practice he abhorres; ſo there is a <hi>Paſſive Diſobe<g ref="char:EOLhyphen"/>dience,</hi> and that is to Repine, which he can by no meanes approve off. Since whatever He cannot Conſcienciouſly do, he thinks himſelf obliged to ſuffer for, with as much Joy, and with as little Reluctance, as if a<g ref="char:EOLhyphen"/>ny other Act of Obedience was called for from him.</p>
+            <p>Having ſaid this concerning the Authour, I need not ſpeak much con<g ref="char:EOLhyphen"/>cerning the Argument; but only this, that it was not written out of Vanity or Oſtentation of Wit; but as a Queſtion, in which he is re<g ref="char:EOLhyphen"/>ally unſatisfied; and therefore thought himſelf bound to impart his Doubts: which having done to many in Diſcourſe, with little ſucceſſe or fatisfaction; he hath now Communicated them to the World, hoping they may light into ſuch mens hands, who may be prevailed upon, if not to alter the Judgement, yet at leaſt to moderate the Paſsion of ſome, who would put out our Eyes, becauſe we cannot ſee with their Spectacles; and who have placed Ceremonies about Religion, a little too truely as a Fence: for they ſerve to keep out all others from their Communion. All therefore which this Treatiſe aims at, is briefly to prove this, — <hi>That none is to Hedge up the Way to Heaven; or by ſcattering Thornes and Punctilioes in it, to make Chriſtianity more Cumberſome, Te<g ref="char:EOLhyphen"/>dious and Difficult, than Chriſt hath left it.</hi> That is in ſhort, <hi>That none can Impoſe, what our Saviour in his Infinite Wiſdome did not think Neceſſary, and therefore left Free.</hi>
+            </p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:33336:4"/>
+            <head>THE GREAT QUESTION Concerning <hi>Things Indifferent in Religious VVorſhip,</hi> Briefly Stated; and tendred to the Conſideration of all ſober and Impartiall men.</head>
+            <argument>
+               <p>
+                  <hi>Queſt.</hi> Whether the Civill Magiſtrate may lawfully impoſe and determine the <g ref="char:V">Ʋ</g>ſe of Indifferent Things, in reference to Reli<g ref="char:EOLhyphen"/>gious Worſhip.</p>
+            </argument>
+            <p>FOr the underſtanding and right ſtating of this Queſtion, I will ſuppoſe theſe two things;</p>
+            <p n="1">1. That a <hi>Chriſtian</hi> may be a <hi>Magiſtrate;</hi> this I know many do deny, grounding themſelves upon that Diſcourſe of our Saviour to his Diſciples, <hi>Ye know,</hi> ſaith he,<note place="margin">Mat. 20.25.</note> 
+               <hi>that the Princes of the Gentiles do exerciſe Dominion over them, and they that are great, ex<g ref="char:EOLhyphen"/>erciſe Authority upon them. But it ſhall not be ſo much amongſt you:</hi> from whence they inferre, that all who will be Chriſts Diſciples, are thereby forbid any exerciſe of Temporall Sovereignty. And I remember amongſt many other of the Primitive Writers, who were of the ſame opinion, <hi>Tertullian</hi> in his <hi>Apology</hi> doth expreſly ſay, <hi>Nos ad omnem Ambitionis curam frigemus,</hi> &amp;c. <hi>We</hi> 1. <hi>Chriſtians,</hi> ſayes he, <hi>have not the leaſt Taint of Ambition, be<g ref="char:EOLhyphen"/>ing ſo farre from affecting Honours, that we look not after ſo much as the Edileſhip,</hi> which was the loweſt Magiſtracy in <hi>Rome;</hi> and afterwards of <hi>Tiberius, Tiberius,</hi> ſayes he, <hi>would have become a Chriſtian, if either the world did not need, or it were lawfull for Chriſtians to be Emperours.</hi> Many other expreſſions there are both in <hi>Tertullian, Cyprian</hi> and <hi>Origen,</hi> to the ſame purpoſe. But
+<pb n="2" facs="tcp:33336:5"/> becauſe the Practice of the Chriſtian world, down from <hi>Conſtan<g ref="char:EOLhyphen"/>tines</hi> time, even in the moſt <hi>Reformed Churches,</hi> hath carried it in the Affirmative for Chriſtian Magiſtracy; and the contrary Do<g ref="char:EOLhyphen"/>ctrine, beſides the Gap it opens to all Civill Confuſion, is built on<g ref="char:EOLhyphen"/>ly upon ſome remote Conſequences from Scripture, rather than a<g ref="char:EOLhyphen"/>ny direct proof. I will therefore admit that a Chriſtian may lawfully exerciſe the Higheſt place of Magiſtracy, <hi>only,</hi> as the Apoſtle ſaith in another caſe, <hi>in the Lord,</hi> i. not extending his Commiſſion far<g ref="char:EOLhyphen"/>ther than the Word of God doth warrant him.</p>
+            <p n="1">1. I will ſuppoſe that there are ſome things in their own Nature <hi>Indifferent,</hi> I mean, thoſe Outward Circumſtances of our Actions; which the Law of God hath left Free and Arbitrary, giving us on<g ref="char:EOLhyphen"/>ly generall Precepts for the Uſe of them either way: Such are, <hi>Do all things to the glory of God,</hi> And, <hi>Do what makes moſt for edifica<g ref="char:EOLhyphen"/>tion,</hi> and the like, which Rules whoever obſerves, may in things Indifferent, either do or forbear them, as he in his Chriſtian Pru<g ref="char:EOLhyphen"/>dence ſhall think Convenient.</p>
+            <p>Of theſe Indifferent Things ſome are Purely ſo, as the <hi>Time</hi> and <hi>Place</hi> of meeting for Religious Worſhip; which ſeem to me, to be ſo very Indifferent, that they cannot without great violence, be wreſted to any ſuperſtitious Obſervance; and therefore concern<g ref="char:EOLhyphen"/>ing theſe I do not diſpute.</p>
+            <p>Other things there are commonly ſuppoſed Indifferent in their own Nature, but by Abuſe have become occaſions of Superſtition: ſuch as are, <hi>Bowing at the Name of Jeſus, the Croſs in Baptiſme, Pictures in Churches, Surplices in Preaching, Kneeling at the Sacrament, ſet Formes of Prayer,</hi> and the like; All which ſeem to ſome Indifferent in their own Nature, and by any, who is per<g ref="char:EOLhyphen"/>ſwaded in his Conſcience of the Lawfullneſs of them, without doubt may lawfully enough be practiſed; yet I hold it utterly unlawfull for any Chriſtian Magiſtrate to impoſe the uſe of them. And that for theſe Reaſons.</p>
+            <p>Firſt, Becauſe it is directly contrary to the Nature of Chriſtian Religion in generall, which in every part of it is to be Free and Un<g ref="char:EOLhyphen"/>forced; for ſince the Chriſtian Magiſtrate cannot, as I think now all Proteſtant Writers do agree, force his Religion upon any, but is to leave even thoſe poore Creatures the <hi>Jews</hi> and <hi>Mahumedans,</hi> to their unbelief (though they certainly periſh in it) rather than by Fines and Impriſonments to torture them out of it; then much
+<pb n="3" facs="tcp:33336:5"/> leſſe may he abridg his Fellow Chriſtian, in things of leſſer Moment, and which concerne not the ſubſtance of his Religion, from uſing that Liberty in ſerving God, which his conſcience prompts him to, and the Nature of his Religion doth warrant him in. For God as he loves a <hi>chearfull giver,</hi> ſo likewiſe a <hi>chearfull Worſhipper,</hi> ac<g ref="char:EOLhyphen"/>cepting of no more, than we willingly performe.</p>
+            <p>Secondly, And more particularly. This Impoſing of Things In<g ref="char:EOLhyphen"/>different, is directly contrary to <hi>Goſpel-Precept.</hi> Our Saviour doth in many places Inveigh againſt the Rigid and Impoſing <hi>Phariſees,</hi>
+               <note place="margin">Matth. 23.</note> for laying <hi>yoakes</hi> upon othe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and therefore invites all to come un<g ref="char:EOLhyphen"/>to him for <hi>Freedome, Take my yoake upon you,</hi> ſaith he,<note place="margin">Matth. 11.</note> 
+               <hi>for it is eaſie, and my burden is light.</hi> And, <hi>If the Sonne ſet you Free,</hi>
+               <note place="margin">Ioh. 8.36.</note> 
+               <hi>then are you Free indeed.</hi> Where by <hi>Freedome</hi> I do not only un<g ref="char:EOLhyphen"/>derſtand <hi>Freedome</hi> from <hi>ſin,</hi> but from all <hi>Humane Impoſitions;</hi> ſince the Apoſtle <hi>Paul</hi> doth ſeem to allude unto this place, in that Com<g ref="char:EOLhyphen"/>mand of his to the <hi>Galatians, Stand faſt in the Liberty, where<g ref="char:EOLhyphen"/>with Chriſt hath made you free, and,</hi>
+               <note place="margin">Gal. 5.1.</note> 
+               <hi>be not again entangled with the Yoake of Bondage;</hi> where, that I may prevent an Objection, I will grant, that by <hi>Yoake of Bondage,</hi> he underſtands <hi>Circumciſi<g ref="char:EOLhyphen"/>on</hi> and other <hi>Jewiſh Ceremonies;</hi> but from thence I will draw an unanſwerable Argument againſt the urging of any other now upon a Chriſtian Account; ſince that the <hi>Moſaicall Ceremonies</hi> which had ſo much to plead for themſelves, upon the Account of their Divine Originall; and which, even after they were fullfilled by our Saviour, ſtill remained indifferent in their Uſe, and were ſo practiſed by <hi>Paul;</hi> yet when once they were Impoſed, and a Neceſ<g ref="char:EOLhyphen"/>ſity pleaded for their Continuance, the Apoſtle Writes ſo ſharply againſt them, exhorting the <hi>Galatians to ſtand faſt in their Liberty,</hi> as part of our Saviours purchaſe. If this, I ſay, was the caſe with thoſe <hi>Old Rits,</hi> then much leſſe can any now Impoſe an inven<g ref="char:EOLhyphen"/>ted forme of Worſhip, for which there cannot be pretended the leaſt warrant that ever God did Authorize it. And it ſeems alto<g ref="char:EOLhyphen"/>gether needleſſe, that the <hi>Jewiſh Ceremonies,</hi> ſhould, as to their Neceſſity at leaſt, expire and be abrogated, if others might ſucceed in their roome, and be as ſtrictly commanded, as ever the former were. For this only returnes us to our <hi>Bondage</hi> again, which is ſo much the more intolerable,<note place="margin">Iac. 1.25.</note> in that our Religion is ſtiled the <hi>Perfect Law of Liberty:</hi> which <hi>Liberty</hi> I underſtand not wherein it con<g ref="char:EOLhyphen"/>ſiſts, if in things <hi>Neceſſary,</hi> we are already determined by God,
+<pb n="4" facs="tcp:33336:6"/> and in things <hi>Indifferent</hi> we may ſtill be tied up to <hi>Humane Ordinan<g ref="char:EOLhyphen"/>ces,</hi> and <hi>Outſide Rites,</hi> at the pleaſure of our <hi>Christian Magiſtrates.</hi>
+            </p>
+            <p>To theſe Scriptures which directly deny all Impoſition, may be added all thoſe Texts, which conſequentially do it, ſuch as are <hi>Do to others, as you would have others do to you:</hi> And who is there that would have his Conſcience Impoſed upon? And, <hi>You that are ſtrong,</hi>
+               <note place="margin">Rom. 14.</note> 
+               <hi>bear with the Infirmity of the weak;</hi> Whereas this practiſe will be ſo farre from eaſing the <hi>Burden</hi> of the <hi>weak;</hi> that if men are at all ſcrupulous, it only laies more load upon them. Theſe Scrip<g ref="char:EOLhyphen"/>tures, with many hundreds the like, ſhow that this kind of Rigour is utterly inconſiſtent with the Rules of Chriſtian Forbearance and Charity, which no <hi>Chriſtian Magiſtrate</hi> ought to think himſelf abſolved from: Since though as a <hi>Magiſtrate</hi> he hath a power in Civill things, yet as a <hi>Chriſtian,</hi> he ought to have a care that in things of ſpirituall concernement he grieve not the minds of any, who are upon that Relation, not his Subjects, ſo much as his Brethren: and therefore ſince they have left their Natu<g ref="char:EOLhyphen"/>rall, and voluntarily parted with their <hi>Civill,</hi> they ought not to be entrenched upon in their <hi>Spirituall freedome:</hi> eſpecially by ſuch a <hi>Magiſtrate,</hi> who owning the ſame Principles of Religion with them, is thereby ingaged to uſe his Power, only to ſupport, and not to enſnare them: to Bound perhaps, but not to abridg their Liberty; to keep it ind<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed from running into Licentiouſneſs (which is a Morall Evill) but not to Shackle, Undermine and Fetter it, un<g ref="char:EOLhyphen"/>der pretence of <hi>Docency</hi> and <hi>Order.</hi> Which when once it comes to be an <hi>Order</hi> of conſtraint, and not of conſent, it is nothing elſe but in the Impoſer, Tyranny; in the perſon Impoſed upon, <hi>Bon<g ref="char:EOLhyphen"/>dage:</hi>
+               <note place="margin">1 Cor. 7.23.</note> and makes him to be, what in things appertaining to Reli<g ref="char:EOLhyphen"/>gion we are forbidden to be, <hi>viz. The ſervants of men. Ye are bought,</hi> ſaith the Apoſtle, <hi>with a price,</hi> and manumitted by Chriſt, <hi>be you not the Servants of men:</hi> which prohibition doth not forbid Civill Service, for he ſaid alittle before, <hi>Art thou called while thou art a Servant?</hi>
+               <note place="margin">Verſe 21.</note> 
+               <hi>care not for it; but if thou canſt be free, uſe it rather,</hi> Implying, that Civill Liberty is to be preferred before ſervitude, yet not to be much contended for, but held as a matter Indifferent; but when once our Maſters, ſhall extend their Rule over the Conſcience, then this precept holds valid, <hi>be ye not the Servants of men.</hi>
+            </p>
+            <p>Thirdly, It is contrary to <hi>Christian Practiſe,</hi> of which
+<pb n="5" facs="tcp:33336:6"/> we have many remarkable Inſtances:</p>
+            <p n="1">1. The firſt ſhall be that of our <hi>Saviour Chriſt,</hi> who was of a moſt ſweet and complying diſpoſition; he ſayes of himſelf, that he came <hi>Eating and Drinking, i. e.</hi> doing the common Actions of other men; and therefore he never diſdained to keep company with any, even the meaneſt and moſt deſpicable ſinner; his retinue conſiſting for the moſt part of thoſe the <hi>Jewes</hi> called, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>i.</hi> ſinners in an eminent and notorious manner; whom as a <hi>Phyſi<g ref="char:EOLhyphen"/>cian</hi> he not only cured; but as a <hi>mercifull Prieſt</hi> ſought out to ſave. Yet when his <hi>Chriſtian Liberty</hi> came once to be invaded, he laid aſide his gentleneſſe, and proved a ſtiff and peremptory Aſſertour of it. To omit many paſſages, of which his Story is full, I ſhall mention but one,<note place="margin">Matth. 25.</note> and that was his refuſing <hi>to waſh his hands before meat.</hi> This was not onely a thing in it ſelf Indifferent, but like<g ref="char:EOLhyphen"/>wiſe had ſome Argument from Decency to induce, and a conſtant Tradition from the <hi>Elders</hi> or <hi>Sanhedrim</hi> to enforce it, who at this time were not only their <hi>Eccleſiaſtical,</hi> but their <hi>Civill Rulers:</hi> Yet all theſe Motives, in a thing ſo innocent and ſmall as that was, would not prevaile with our Saviour to quit his Liberty of eating with <hi>unwaſhed hands.</hi> And in defence of himſelf, he calls them <hi>ſuperſtitious fools,</hi> and <hi>blind guides,</hi> who were offended at him; and leaves two unanſwerable Arguments, which are of equall vali<g ref="char:EOLhyphen"/>dity in things of the like nature. As</p>
+            <p n="1">1. <hi>That this was not a Plant, of his Fathers planting, and there<g ref="char:EOLhyphen"/>fore it ſhould be rooted up;</hi> whereby our Saviour intimates, that as the <hi>Phariſees</hi> had no divine warrant to preſcribe ſuch a Toy as that was, ſo God would at laſt declare his Indignation againſt their <hi>Su<g ref="char:EOLhyphen"/>pererogatory Worſhip,</hi> by pulling it up <hi>Root and Branch.</hi> From whence I gather this Rule, That when once <hi>Humane Inventions</hi> become <hi>Impoſitions,</hi> and lay a Neceſſity upon that, which God hath left Free; then may we lawfully reject them, as <hi>Plants</hi> of <hi>mans ſetting,</hi> and not of <hi>Gods owning.</hi>
+            </p>
+            <p n="2">2. The ſecond Argument our Saviour uſes is, <hi>That theſe things did not defile a man, i. e.</hi> as to his mind and conſcience. To eat with <hi>unwaſhed hands</hi> was at the worſt, but a point of ill manners, and unhandſome perhaps or indecent, but not an impious or un<g ref="char:EOLhyphen"/>godly thing; and therefore more likely to offend nice ſtomacks, than ſcrupulous conſciences. Whoſe ſatisfaction in ſuch things as theſe our Saviour did not at all ſtudy. From whence I inferre,
+<pb n="6" facs="tcp:33336:7"/> That in the Worſhip of God we are chiefly to look after the <hi>Sub<g ref="char:EOLhyphen"/>ſtance</hi> of things; and as for <hi>Circumſtances,</hi> they are either not worth our Notice, or elſe will be anſwerable to our Inward Impreſ<g ref="char:EOLhyphen"/>ſions; according to which our Saviour in another place, ſayes, <hi>O blind Phariſee,</hi>
+               <note place="margin">Matth. 23.36.</note> 
+               <hi>cleanſe firſt the Inſide of the Cup, and of the Platter, that ſo the outſide may be clean;</hi> hereby implying, that a <hi>Renewed Heart,</hi> will be ſure to make a <hi>changed and ſeemly behaviour;</hi> where<g ref="char:EOLhyphen"/>as the moſt ſpecious outſide is conſiſtent with Inward Filth and Rot<g ref="char:EOLhyphen"/>tenneſſe. So that they who preſſe <hi>outward conformity</hi> in <hi>Divine Worſhip,</hi> endeavour to ſerve God the wrong way, and often times do only force Carnal and Hypocritical men to preſent God a Sacri<g ref="char:EOLhyphen"/>fice which he abhorres; while to others that are more Tender and Scrupulous, they make the Sacrifice it ſelf unpleaſant, becauſe they will not l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t it be, what God would have it, a <hi>Free-will-offering.</hi>
+            </p>
+            <p n="2">2. My ſecond Inſtance ſhall be the <hi>Reſolution</hi> of the Apoſtles in that Famous and Important Quaere, concerning the <hi>Jewiſh Cere<g ref="char:EOLhyphen"/>monies,</hi> whether they were to be Impoſed or not. <hi>After a long di<g ref="char:EOLhyphen"/>spute to find out the Truth</hi> (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,<note place="margin">Acts 15.</note> ſayes the Text) <hi>Peter</hi> directly oppoſes thoſe <hi>Rites Why,</hi> ſayes he, <hi>do ye tempt God, by putting a Yoke upon the Neck of the Diſciples?</hi> In<g ref="char:EOLhyphen"/>timating that to put a <hi>Yoke</hi> upon others (and to Impoſe in Things Indifferent is certainly a great one) from which, God hath either expreſly freed us, by commanding the contrary: or elſe tacitly freed us, by not commanding them: This is nothing elſe but to <hi>Tempt God,</hi> and to pretend to be more Wiſe and Holy than he. Again, <hi>James</hi> decries thoſe <hi>Ceremonies,</hi> upon this ſcore, leaſt they ſhould (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) <hi>be troubleſome to the converted Gentiles;</hi> implying, that however men may think it a ſmall matter, to Impoſe an <hi>In<g ref="char:EOLhyphen"/>different</hi> thing, yet indeed it is an infinite Trouble and matter of Diſquiet to the Party Impoſed upon, becauſe he is thereby diſabled from uſing his <hi>Liberty,</hi> in that which he knows to be <hi>Indifferent.</hi>
+            </p>
+            <p>Upon the hearing of theſe two, the Reſult of the whole <hi>Councel</hi> was, that the <hi>Brethren</hi> ſhould not be Impoſed upon, although the Arguments for <hi>conformity</hi> were much ſtronger then, than now they can be; becauſe the <hi>Jews</hi> in all probability, might thereby have been the ſooner wonne over to the Chriſtian Perſwaſion. The <hi>De<g ref="char:EOLhyphen"/>cree</hi> which that <hi>Apoſtolical,</hi> and truly Chriſtian <hi>Synod</hi> makes is ve<g ref="char:EOLhyphen"/>ry obſervable,</p>
+            <p n="1">
+               <pb n="7" facs="tcp:33336:7"/>1. From the <hi>Stile</hi> they uſe, <hi>It ſeems good</hi> (ſay they) <hi>to the holy Ghoſt, and to us,</hi> — ſo that whoever exerciſes the ſame <hi>Im<g ref="char:EOLhyphen"/>poſing Power,</hi> had need be ſure he hath the ſame <hi>Divine Au<g ref="char:EOLhyphen"/>thority;</hi> for feare he onely raſhly aſſumes what was never gran<g ref="char:EOLhyphen"/>ted him.</p>
+            <p n="2">2. From the Things they Impoſe, <hi>It ſeems good,</hi> &amp;c. (ſay they) <hi>to lay upon you no greater burden than theſe neceſſary things; That you abſtain from things offered to Idols, from Bloud, from things ſtran<g ref="char:EOLhyphen"/>gled, and from Fornication.</hi> Whence I obſerve,</p>
+            <p n="1">1. That they call their Impoſition <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a <hi>weight,</hi> or <hi>bur<g ref="char:EOLhyphen"/>den;</hi> which is not unneceſſarily to be laid on the ſhoulders of any.</p>
+            <p n="2">2. They ſay, they forbid onely <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>— <hi>Theſe very Neceſſary things,</hi> to ſhow, that <hi>Neceſſary</hi> things only, and not <hi>In<g ref="char:EOLhyphen"/>different,</hi> ſhould be the matter of our Impoſition.</p>
+            <p>For whereas ſome gather from hence, that the <hi>Church, i.</hi> where a State is Chriſtian, the <hi>Chriſtian Magiſtrate,</hi> hath a power to ob<g ref="char:EOLhyphen"/>liege men to the doing of things he commands, though in their own Nature they be indifferent; becauſe they ſuppoſe that the Apoſtles did ſo, as for example, in <hi>forbidding to eat Blood,</hi> there<g ref="char:EOLhyphen"/>fore conſider.</p>
+            <p n="1">1. That this is quite contrary to the Apoſtles ſcope, whoſe buſi<g ref="char:EOLhyphen"/>neſſe was to Eaſe and Free, and not to Tie up their Brethren; and therefore they ſay, they meerly do lay upon them <hi>things very neceſſary.</hi>
+            </p>
+            <p n="2">2. That all thoſe things they forbid, were not <hi>Indifferent,</hi> but long before prohibited by God, not only in the <hi>Ceremonial,</hi> but in his <hi>Poſitive Law,</hi> and therefore obligatory, whereupon the A<g ref="char:EOLhyphen"/>poſtles call them <hi>Neceſſary, i.</hi> things neceſſary to be forborn, even before they had made any Decree againſt them. As</p>
+            <p n="1">1. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, i. <hi>The meat of things offered to Idols:</hi> To eat of them was not in all caſes Indifferent; for to do it <hi>with conſcience of the Idol,</hi> i. <hi>intending thereby to worſhip the Idol,</hi> this was a thing againſt the ſecond Commandment. But if a man was convin<g ref="char:EOLhyphen"/>ced that the <hi>Idol</hi> was nothing, and therefore the meat, though conſecrated, was Free to him: Yet if his weaker Bro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her was offended; he was then to abſtain in obſervance of Chriſtian Cha<g ref="char:EOLhyphen"/>rity and Condeſcenſion: But if the Eater himſelf <hi>did doubt,</hi> then was he to forbear for his own peace and quiet's ſake, for to eate,
+<pb n="8" facs="tcp:33336:8"/> while he was unſatisfied whether it was lawfull or not, was nothing elſe but to condemn himſelf, as the Apoſtle ſayes, <hi>He that doubts, is</hi> (not <hi>damned,</hi> as we render it, but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>—) <hi>condemned,</hi> i. <hi>Self-condemn'd if he eat,</hi> becauſe he doth that which he inward<g ref="char:EOLhyphen"/>ly doth either not approve, or elſe at leaſt ſuſpects, that it is not lawfull: ſo that the Caſe of eating <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, being ſo nice, and ſo apt to be miſtaken: the Apoſtles do make their Prohibition Univerſall, as that which was moſt ſafe, and leaſt ſubject to ſcruple.</p>
+            <p n="2">2. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Blood;</hi> i. e. <hi>Fleſh with the blood;</hi> or, as ſome, <hi>Raw fleſh;</hi> and <hi>Things ſtrangled;</hi> to eat theſe was not indifferent, but prohibited long before by God, in his Law given to <hi>Noah.</hi> And therefore the Apoſtles Prohibition here, is not to be interpre<g ref="char:EOLhyphen"/>ted, as their giving a Temporary Law, with reſpect had to the then Conſtitution and oeconomy of the <hi>Jews</hi> (as ſome weakly and withou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ground from Scripture, imagine) but rather as a Revi<g ref="char:EOLhyphen"/>ving and Reenforcing an old Law, which being given by God to <hi>Noah,</hi> both then was, and ſtill is Obligatory to all his Poſterity, God having no where diſpenſed with it.</p>
+            <p n="3">3. Laſtly, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, if you render it <hi>Fornication,</hi> then it is evi<g ref="char:EOLhyphen"/>dently contrary to thoſe Precepts of Purity, Holineſs and Perfe<g ref="char:EOLhyphen"/>ction, which God every where requires. But if you expound it, as many learned men do, <hi>
+                  <g ref="char:V">Ʋ</g>nlawfull Copulations;</hi> then the Pro<g ref="char:EOLhyphen"/>hibition enforces upon us the obſervance of thoſe Laws concerning <hi>Marriage,</hi> which are recorded in <hi>Levit.</hi> 18. and which is evident, are not in their own Nature indifferent, ſince marrying with our <hi>Mother, Siſter,</hi> or <hi>Daughter,</hi> the Heathen <hi>Plato,</hi> and the <hi>Gre<g ref="char:EOLhyphen"/>cian</hi> Laws condemned even by the light of Nature. And God, there in that Chapter, calls the contrary Practices, <hi>Abominable Cu<g ref="char:EOLhyphen"/>ſtomes;</hi> for which he threatens to root even the Heathen out, —<hi>v.</hi> 27. <hi>ad ſin.</hi>
+            </p>
+            <p>From what has been ſaid out of this Inſtance, I conclude, That ſince, 1. The Apoſtles, though divinely inſpired, yet did not impoſe any <hi>Rites</hi> upon the <hi>Church,</hi> by their own proper Power, but joyn themſelves with the <hi>Holy Ghoſt,</hi> as being Acted and Com<g ref="char:EOLhyphen"/>miſſioned by him. Since, 2. They uſe no Arguments from De<g ref="char:EOLhyphen"/>cency to juſtifie their impoſition, nor lay any Unneceſſary Burden upon any, by forbidding or enjoyning things <hi>purely Indifferent,</hi> but onely prohibit ſuch things, as they call, and it is clear from
+<pb n="9" facs="tcp:33336:8"/> what has been ſaid, that they were <hi>Neceſſary.</hi> And laſtly, ſince the Retaining ſome of the more Innocent and leſſe Burdenſome <hi>Ceremonies</hi> of the <hi>Jews,</hi> in point of Order and Convenience only, would in all probability have been the readieſt means to bring <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat Preciſe and Superſtitious People unto a Compliance with the Go<g ref="char:EOLhyphen"/>ſpel; and without doubt for that reaſon would have been enjoyn<g ref="char:EOLhyphen"/>ed, had the Apoſtles conceived they had any power to have medled with them. Hence I conclude for Perſons, 1. Who have no ſuch Au<g ref="char:EOLhyphen"/>thority. 2. In things much more indifferent. And laſtly, Where the Neceſſity of conforming is nothing neer ſo preſſing and urge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t. For ſuch, I ſay, to take upon themſelves an <hi>Arbitrary</hi> and an <hi>Imp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſing Power,</hi> it is altogether <hi>
+                  <g ref="char:V">Ʋ</g>nwarrantable,</hi> and conſequently <hi>ſinfull.</hi>
+            </p>
+            <p n="3">3. My laſt inſtance ſhall be that of the Apoſtle <hi>Paul,</hi> who was of an Univerſally Complying carriage; he ſayes of himſelf, <hi>That he became all things to all men, even to Jews as a Jew,</hi>
+               <note place="margin">1 Cor. 9.19, 23 Act. 16.</note> &amp;c. with many more words to the ſame purpoſe. And to ſhow his <hi>Liberty,</hi> he cir<g ref="char:EOLhyphen"/>cumciſed <hi>Timothy,</hi> though a <hi>Greeke, that he might gain the Jews in thoſe parts.</hi> But when once a Sect of men roſe up, who be<g ref="char:EOLhyphen"/>gan to preach the <hi>Neceſſity</hi> of <hi>Circumciſion,</hi> he doth in many pla<g ref="char:EOLhyphen"/>ces ſharply inveigh againſt them, <hi>calling</hi> them <hi>doggs, evil workers,</hi> and in deriſion, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or the <hi>Conciſion;</hi> and concludes his Epi<g ref="char:EOLhyphen"/>ſtle to the <hi>Galatians,</hi> with bidding them to beware of ſuch, as la<g ref="char:EOLhyphen"/>boured <hi>to boaſt in their fleſh, i.</hi> ſought to bring them unto a <hi>Con<g ref="char:EOLhyphen"/>formity</hi> in thoſe <hi>outward Ordinances.</hi> Nay ſo jealous and preciſely carefull was that Apoſtle of this great Chriſtian <hi>Priviledge</hi> and <hi>Charter,</hi> viz. <hi>Freedome in Indifferent things;</hi> that he could not brook ſo much as <hi>Peter</hi>'s ſuſpicious carriage in that particular, but for his <hi>Diſſimulation,</hi> and pretending to be leſſe Free, than he was; <hi>Paul</hi> ſayes, <hi>That he openly reproved him to his Face.</hi>
+               <note place="margin">Gal. 2.</note> And for other <hi>Falſe Brethren,</hi> who crept into their Aſſemblies, meerly to <hi>ſpie out their liberty,</hi> and without doubt, uſed the ſame Argu<g ref="char:EOLhyphen"/>ments for <hi>Conformity,</hi> which many do now; the Apoſtle ſayes, <hi>He reſiſted them, and yeelded not to them ſo much as for a moment</hi> And that he might for ever preſerve his <hi>Galatians</hi> from being en<g ref="char:EOLhyphen"/>ſnared, and brought under bondage again, he leaves them the Ca<g ref="char:EOLhyphen"/>veat, I mentioned before, <hi>Stand faſt in your liberty,</hi> &amp;c. From whence I inferre, that ſo long as a thing is left <hi>Indifferent,</hi> though there be ſome ſuſpicion of <hi>Superſtition</hi> in it, we may lawfully pra<g ref="char:EOLhyphen"/>ctiſe it, as <hi>Paul</hi> did <hi>Circumciſion:</hi> But when any ſhall take upon
+<pb n="10" facs="tcp:33336:9"/> them to make it <hi>Neceſſary,</hi> then the thing ſo impoſed preſently lo<g ref="char:EOLhyphen"/>ſes not its <hi>Liberty</hi> only, but likewiſe its <hi>Lawfulneſs;</hi> and we may not, without Breach of the Apoſtles Precept, ſubmit unto it: be<g ref="char:EOLhyphen"/>cauſe we thereby do own, that thoſe whoſe injunctions we obey, had a power to i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>poſe; and ſo, by aſſenting, we become abetters and pro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oters of their <hi>
+                  <g ref="char:V">Ʋ</g>ſurpation.</hi>
+            </p>
+            <p n="4">4. My laſt A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gumen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> againſt <hi>Impoſitions,</hi> ſhall be taken from the <hi>Inconveniences</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat attend ſuch a practiſe. For though I lay little ſtreſs up<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch kind of Arguments (becauſe <hi>Truth</hi> is to be tried by its <hi>Evidence,</hi> and not by its <hi>Conſequences</hi>) yet becauſe, 1. In <hi>Principles,</hi> on which <hi>moral Actions</hi> are grounded, the <hi>Inconveniences</hi> do uſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o be weighed, and that Doctrin for the moſt part ſeems moſt True, at leaſt moſt Plauſible, which is attended by feweſt Inconveni<g ref="char:EOLhyphen"/>ences: and becauſe, 2. The Oppoſers of <hi>Liberty,</hi> have v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry lit<g ref="char:EOLhyphen"/>tle elſe to urge for themſelves, but by pretending the many incon<g ref="char:EOLhyphen"/>veniences tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> flow from it. Therfore I ſhall clearly prove that many more <hi>Abſurd,</hi> and more <hi>Deſtructive</hi> and <hi>Fatal Conſequences</hi> attend the Doctrin of <hi>Impoſitions,</hi> then the Doctrin of <hi>Chriſtian liberty.</hi> As</p>
+            <p n="1">1. The firſt <hi>Inconvenience</hi> is, the Impoſſibility to fix a point where the <hi>Impoſer</hi> will ſtop. For do but once grant, That the <hi>Ma<g ref="char:EOLhyphen"/>giſtrate</hi> hath power to impoſe, and then we lie at his mercy, how farre he will go. For the <hi>Marriage of Miniſters, holy <g ref="char:V">Ʋ</g>nction, Conſecrating the Hoſt,</hi> &amp;c. are as indifferent in their own nature, as Uſing the <hi>Croſs,</hi> or <hi>Surplice.</hi> And if the Magiſtrate hath indeed lawfull power to Impoſe, he may as well Command thoſe, as theſe: eſpecially if he be convinced that they are either <hi>Decent</hi> or <hi>Conve<g ref="char:EOLhyphen"/>nient;</hi> at which door have entred in all thoſe <hi>groſs Fooleries,</hi> which are in the <hi>Popiſh</hi> worſhip: any of which, take them ſingly, and apart from the Circumſtances which determine them, ſo they are <hi>Indifferent,</hi> and may, for ought I know, be conſcientiouſly obſer<g ref="char:EOLhyphen"/>ved. <milestone type="tcpmilestone" unit="unspecified" n="N"/> But put them together, and conſider the Power which Impo<g ref="char:EOLhyphen"/>ſes, and the End which continues them, ſo they are the <hi>groſſeſt Idolatry,</hi> and the <hi>vileſt Tyranny</hi> that ever yet was practiſed. For we are for the moſt part miſtaken in the Notion of <hi>Popery,</hi> if we ſee a <hi>Surplice,</hi> or a <hi>Croſs,</hi> or <hi>Organs,</hi> or <hi>Bowing,</hi> we preſently cry out. <hi>Po<g ref="char:EOLhyphen"/>pery:</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="M"/> wheras I think it a more manifeſt ſign of <hi>Popery</hi> to forbid theſe things, as we do, under <hi>Penalties,</hi> than to practiſe them with <hi>Freedome.</hi> If I underſtand any thing of <hi>Antichriſt,</hi> his Nature ſeems to me to conſiſt in this, That he Acts in a way contrary to
+<pb n="11" facs="tcp:33336:9"/> 
+               <hi>Chriſt, i. e.</hi> in ſtead of a <hi>ſpiritual,</hi> he brings in a <hi>Deviſed Worſhip;</hi> and in ſtead of <hi>Freedome,</hi> layes a <hi>Conſtraint</hi> even upon our <hi>De<g ref="char:EOLhyphen"/>votion.</hi> So that, as <hi>John</hi> in his <hi>Revelation</hi> ſayes of him,<note place="margin">Rev. 13.</note> 
+               <hi>Men ſhall neither buy, nor ſell, who have not his mark; i.</hi> who do not ſerve God in that outward way, which he commands. So that whoever doth own the <hi>Doctrine</hi> of <hi>Impoſition,</hi> though in the ſmalleſt cir<g ref="char:EOLhyphen"/>cumſtance of <hi>Worſhip,</hi> he brings in the Eſſence, though not the Name of <hi>Popery;</hi> and layes down that for his Foundation, on which all the <hi>Will-worſhip,</hi> which this day reigns in the world, is bottom<g ref="char:EOLhyphen"/>ed. For what ever opinions we have concerning the Neceſſity of <hi>Bowing, Kneeling,</hi> or the like, while they ſtand confined to our pri<g ref="char:EOLhyphen"/>vate practiſes, they are at worſt but <hi>Hay and ſtubble,</hi>
+               <note place="margin">2 Cor. 3.</note> which will periſh at the <hi>day of account,</hi> though he that doth them may very well be ſaved. But when once a man goes further, and not con<g ref="char:EOLhyphen"/>tent. with his Perſwaſions, envies his Brother that Liberty, which he himſelf deſires to enjoy; and ſeeks to obtrude his Conce<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s up<g ref="char:EOLhyphen"/>on others, who perhaps are not ſo well ſatisfied as he is: Whoever doth this, becomes Impious to God, by invading his Sovereignty, and lording it over another mans Conſcience; and likewiſe inju<g ref="char:EOLhyphen"/>rious to men, by preſſing ſuch things, as are only <hi>Baits</hi> to the <hi>Careleſſe,</hi> and <hi>Traps</hi> for the <hi>Conſcientious.</hi> I know very well, that the Argument is ſpecious, and often urged— <hi>Why ſhould men be ſo ſcrupulous?</hi> Moſt pleading for <hi>Ceremonies,</hi> as <hi>Lot</hi> did for <hi>Zoar, Are not they little things?</hi> But I anſwer, 1. That a little thing un<g ref="char:EOLhyphen"/>warrantably done is a great ſinne. 2. That a little thing unjuſt<g ref="char:EOLhyphen"/>ly gained, makes way for a greater: and therefore we ſhould not let the <hi>Serpent</hi> get in his <hi>Head,</hi> how beautifull ſoever it ſeems, leſt he brings in his <hi>Tail,</hi> and with that his <hi>ſting.</hi>—How curious even almoſt to <hi>Superſtition,</hi> our <hi>Saviour</hi> and his <hi>Apoſtles,</hi> eſpecially <hi>Paul,</hi> were, I have already mentioned; by whoſe Example we are lit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le profited, if we do not learn, that in Impoſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions we are not ſo much to conſider how ſmall and inconſiderable the thing im<g ref="char:EOLhyphen"/>poſed is, as how lawfull it is: Not, what it is in it ſelf, as whether it tends, and what will be the Conſequence of its Admiſſion. For the ſmaller the thing impoſed is, the more is our <hi>Chriſtian Liberty</hi> invaded, and conſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>quently the more injurious and ſinfull is its im<g ref="char:EOLhyphen"/>poſition.</p>
+            <p n="2">2. The ſecond Inconvenience is, that it quite inverts the Nature of <hi>Chriſtian Religion;</hi> not only by taking away its <hi>Freedome,</hi> but
+<pb n="12" facs="tcp:33336:10"/> likewiſe its <hi>ſpirituality,</hi> our Saviour ſayes, that God will now be worſhipped not in ſhow and Ceremony, but <hi>in ſpirit, and in truth;</hi> whereas this <hi>D ctrine</hi> of <hi>Impoſitions,</hi> places it in ſuch things, in the obſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce of which, <hi>Superſtition</hi> will be ſure to out-do <hi>De<g ref="char:EOLhyphen"/>votion.</hi> But <hi>true Religion</hi> like the ſpirits of wine or ſubtle eſſen<g ref="char:EOLhyphen"/>ces, when ev<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r it comes to be Opened and Expoſed to view, runs the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>azard of being preſently diſpirited, and loſt. In the ſervice of God there is a vaſt difference, between <hi>Purity</hi> and <hi>Pomp,</hi> between <hi>ſpirit</hi> and <hi>ſplendour,</hi> whereas <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Impoſer only drives at and improves the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a er; but on the former is altogether ſecure and careleſſe, as is evid<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t in thoſe places, where <hi>
+                  <g ref="char:V">Ʋ</g>niformity</hi> is moſt ſtrictly pra<g ref="char:EOLhyphen"/>ctiſed.</p>
+            <p n="3">3. Thirdly, This Doctrine making no proviſion at all for ſuch as are <hi>ſcrupulous</hi> and <hi>tender,</hi> ſuppoſes the ſame <hi>meaſure</hi> of <hi>Faith</hi> in all; whereas nothing is more clear than, as the Apoſtle ſayes concerning <hi>Things offered to Idols,</hi> ſo concerning <hi>Ceremonies,</hi> I may ſay, that <hi>All have not knowledge.</hi> But to this day many there are utterly unſatisfi<g ref="char:EOLhyphen"/>ed with the <hi>Lawfulneſſe</hi> of any, and moſt are convinced of the <hi>
+                  <g ref="char:V">Ʋ</g>ſe<g ref="char:EOLhyphen"/>leſneſſe</hi> of them all. Whoſe Conſciences, how erroneous ſoever, yet are to be Tenderly and Gently dealt with; leaſt by our Rigid com<g ref="char:EOLhyphen"/>manding what they can by no means comply with, we bring them unto that Dangerous <hi>Dilemma,</hi> either of breaking their Inward Peace and comfort, by doing outwardly what they do not inwardly approve of: or elſe of running themſelves upon the Rocks of Po<g ref="char:EOLhyphen"/>verty and prejudice, by diſobeying what is commanded. For though we are upon all occaſions to ſuffer gladly, yet let not <hi>Reuben ſmite Ephraim;</hi> let us not <hi>receive our wounds in the houſe of our friends;</hi> for then our ſufferings will be ſharpned from the conſideration of the Unkindneſſe; that our <hi>Brethren</hi> ſhould put us upon the Trial of our <hi>Faith</hi> and <hi>Patience,</hi> eſpecially in ſuch things, which while the <hi>Impoſor</hi> calls Indifferent, he thereby acknowledges, that they may very well be ſpared.</p>
+            <p n="4">4. The laſt Inconvenience is, that by <hi>Impoſitions,</hi> eſp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cially when the <hi>Penalty</hi> is ſevere, we ſeem to lay as much weight and ſtreſs upon theſe <hi>Indifferent things,</hi> as upon any the moſt material parts of our Religion. This Rigid Irreſpective obtruding of ſmall things, makes no diff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rence at all between <hi>Ceremony</hi> and <hi>Subſtance.</hi> So that a man who were not a <hi>Chriſtian</hi> at all, would find as good, nay per<g ref="char:EOLhyphen"/>haps better uſage from the <hi>Impoſer;</hi> than he who labouring and
+<pb n="13" facs="tcp:33336:10"/> endeavouring to live up to other parts of Chriſtian Faith, ſhall yet forbear to practice theſe <hi>Ceremonies:</hi> Which is not only Harſh and Cruel, but very Incongruous dealing, that a <hi>Jew</hi> or <hi>Mahumedan,</hi> ſhall be better regarded, than a <hi>we<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k and ſcrupulous Chriſtian.</hi> This is nothing elſe, but to deal with <hi>Chriſtians,</hi> as <hi>Jephtha</hi> did with the <hi>Ephraimites,</hi> to kill them for no weightier crime, than becauſe they cannot pronounce <hi>Shibboleth.</hi>
+            </p>
+            <p>To thoſe <hi>Inconveniencies</hi> I might adde the certain decay of the growth of Religion as to its inward Purity, while there is this Diſ<g ref="char:EOLhyphen"/>guiſe and Mask of needleſſe Ceremonies upon it to keep it under; but thoſe which I have already urged, are ſo great, that thoſe which are commonly inſiſted upon by men of another Perſwaſion, are not at all to be put into the Balance with them; as will appear by this brief Anſwer to their main Objections.</p>
+            <p n="1">1. They object that this will be the way to beget all manner of <hi>Diſorder</hi> and <hi>Confuſion;</hi> that every man will have a ſeveral Faſhi<g ref="char:EOLhyphen"/>on and Cuſtom by himſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lf; and for want of <hi>
+                  <g ref="char:V">Ʋ</g>niformity</hi> and <hi>Ce<g ref="char:EOLhyphen"/>remony,</hi> the <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> and <hi>Eſſence</hi> of Religion will periſh. But I an<g ref="char:EOLhyphen"/>ſwer,</p>
+            <p n="1">1. <hi>Doth any plead for Baal?</hi> He that will abuſe the Principle of <hi>Liberty, to juſtifie his Licentiouſneſſe of life, let him know that the Magiſtrate bears not the Sword in vain,</hi> but has it to cut off ſuch of<g ref="char:EOLhyphen"/>fenders. <hi>If you ſuffer as Chriſtians,</hi> ſaith the Apoſtle, <hi>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>j<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yce at it;</hi>
+               <note place="margin">2 Pet. 1.4.</note> 
+               <hi>But let none ſuffer, as a Thief, Murderer,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. i. <hi>a ſeditious per<g ref="char:EOLhyphen"/>ſon, or State-Incendiary,</hi> or <hi>as a buſie Intermedler in other mens m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<g ref="char:EOLhyphen"/>ters: for he that doth theſe things ſuffers juſtly;</hi> nor can he plead any thing from the <hi>Gospel,</hi> which is a Rule of ſtrictneſſe to exempt him from Puniſhment. But</p>
+            <p n="2">2. This <hi>Diſorder,</hi> which is ſo vehemently and ſo Tragically aggra<g ref="char:EOLhyphen"/>vated, and for the prevention of which, <hi>Ceremonies</hi> muſt be invented and forced, is indeed nothing elſe but a Malicious and Ill ſounding name, put upon an excellent and moſt comely thing, <hi>i. e. variety.</hi> For as God, though he be a <hi>God of Order,</hi> hath not made all men of one countenance, and in the world hath given ſeveral and divers <hi>ſhapes</hi> to many things, which yet are the ſame for <hi>ſubſtance;</hi> ſo in the Aſ<g ref="char:EOLhyphen"/>ſemblies of his people, who all come to Honour him, and agree in the Eſſence of his Worſhip, why ſhould we doubt, but God will be well pleaſed with their variety in Circumſtances? The exerciſe of which not only their Conſciences do prompt, but God himſelf
+<pb n="14" facs="tcp:33336:11"/> doth induce them to, becauſe in his Word he hath not preſcribed any one <hi>outward Form,</hi> that all ſhould neceſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rily agree in; but in ſuch things hath left them to the Dictates of thei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> own Spirits, and the guidance of Chriſtian prudence; which <hi>Variety</hi> is ſo far from be<g ref="char:EOLhyphen"/>ing a <hi>Confuſion,</hi> that nothing can be more Comely and Harmonious, as ſerving to ſet out the Indulgence of God, the indifferent Actings of the <hi>holy Spirit,</hi> and the <hi>Liberty of the Saints,</hi> who preſerve <hi>
+                  <g ref="char:V">Ʋ</g>nity</hi> in mind, without <hi>
+                  <g ref="char:V">Ʋ</g>niformity</hi> in Behaviour.</p>
+            <p n="2">2. The ſecond Objection is, the practice of the <hi>Jewiſh Princes,</hi> who as ſoon as ever they were inſtalled in their Kingdoms, ſet upon <hi>refor<g ref="char:EOLhyphen"/>ming the Houſe of God,</hi> and impoſing upon all a <hi>Form of Worſhip:</hi> which ſince all <hi>Scripture is written by Divine Inspiration,</hi> and <hi>for our Inſtruction,</hi>
+               <note place="margin">Rom. 16.</note> ſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ms to be a leading caſe that <hi>Chriſtian Princes</hi> ſhould imitate them, and do ſo likewiſe. But I anſwer.</p>
+            <p n="1">1. Though Arguments taken from <hi>Analogy</hi> are of very little weight, when Poſitive Precepts are required, yet I will grant, that the Piety of the <hi>Jewiſh,</hi> is, and ought to be exemplary to the <hi>Chriſtian Magiſtrates,</hi>—but withall I deny the Inference, ſince the <hi>Jewiſh Princes,</hi> when they Reformed <hi>Religion,</hi> they therein followed a <hi>Di<g ref="char:EOLhyphen"/>vine Law,</hi> which did command it from them, and which, in the mi<g ref="char:EOLhyphen"/>nuteſt circumſtances, had provided for <hi>uniformity</hi> of <hi>Worſhip:</hi> from which Rigor and Reſtraint all Chriſtians are abſolved, and therefore it is very unconcluding to Argue from the <hi>Jews,</hi> who had; to the <hi>Chriſtian Magiſtrate,</hi> who wants <hi>Divine Authority.</hi> To this is alſo object<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d.</p>
+            <p n="3">3. That ſince things <hi>Neceſſary</hi> to the worſhip of God, be already determin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d by God, and over them the <hi>Magiſtrate</hi> has no power; if likewiſe he ſhould have no Power in <hi>Indifferent Things,</hi> then it would follow, that in things appertaining to Religion, the <hi>Chriſtian Magiſtrate</hi> had no power at all—which they think to be very Ab<g ref="char:EOLhyphen"/>ſurd—ſo the Reverend and Learned M<hi rend="sup">r</hi> 
+               <hi>Hooker,</hi> and D<hi rend="sup">r</hi> 
+               <hi>Sanderſon.</hi> But I anſwer,</p>
+            <p n="1">1. That it is no Abſurdity at all, that <hi>Princes</hi> ſhould have no more power in ordering the things of God, than God himſelf hath al<g ref="char:EOLhyphen"/>lowed them. And if God hath no where given them ſuch an Im<g ref="char:EOLhyphen"/>poſing Power, they muſt be content to go without it. But in this caſe, where will the <hi>Chriſtian Magiſtrate</hi> find his Warrant, the Scriptures being utterly ſilent, that he is now to take ſuch Authori<g ref="char:EOLhyphen"/>ty upon him, which, b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cauſe the thing concerns not man, but the
+<pb n="15" facs="tcp:33336:11"/> Worſhip of God, had it been thought neceſſary and Fit, would cer<g ref="char:EOLhyphen"/>tainly not have been omitted.</p>
+            <p n="2">2. It is ſo far from being an Argument for <hi>Impoſitions,</hi> to urge that the thing Impoſed is <hi>Indifferent,</hi> that there cannot be a ſtronger Argument againſt them: ſince it is as requiſite to Chriſtian Pra<g ref="char:EOLhyphen"/>ctice, that <hi>Things Indifferent,</hi> ſhould ſtill be kept <hi>Indifferent,</hi> as <hi>Things Neceſſary,</hi> be held <hi>Neceſſary,</hi> — As I have already proved.</p>
+            <p>Laſtly, It is much more ſuited to the Nature of the <hi>Goſpel,</hi> that <hi>Chriſtian Princes</hi> ſhould reform Religion, rather by the example of their Life, than by the ſeverity of their Laws; and if they may ſhow their power at all in this caſe, it ſhould rather be by <hi>Subſtra<g ref="char:EOLhyphen"/>cting,</hi> then by <hi>Adding.</hi> — By taking away all impertinencies, which may hinder the Progreſs of it, rather than by obtruding un<g ref="char:EOLhyphen"/>warrantable Methods, to tye all men up to ſuch Outward Forms; as may make Piety ſuſpected only for Policy diſguiſed.</p>
+            <p>Much more might be ſaid for this from <hi>Authority,</hi> but I willing<g ref="char:EOLhyphen"/>ly wave it. For i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Scripture</hi> and <hi>Reaſon</hi> will not prevail to hinder <hi>Impoſitions,</hi> I have no cauſe to expect that any ſentences from Anti<g ref="char:EOLhyphen"/>quity ſhould. — Only this is certain, that all the Writings of the Chriſtians for the firſt three hundred years, are full of nothing elſe but ſuch Arguments as evince a <hi>Liberty,</hi> more Abſolute and Uni<g ref="char:EOLhyphen"/>verſall than I contend for. And likewiſe it may be of ſome weight, that the <hi>Churches Doctrine</hi> was then more pure, their <hi>Diſcipline</hi> more ſtrict and ſevere than now; and yet they had nothing but <hi>Mutuall Conſent,</hi> either to Eſtabliſh or Protect it, the Magi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>trates being all againſt them. — But when once <hi>Conſtantine</hi> took upon him to manage the Affairs of the <hi>Church,</hi> and by <hi>Penall Laws,</hi> rati<g ref="char:EOLhyphen"/>fied and confirmed <hi>Church-Orders.</hi> — He laid that foundation of <hi>Antichriſtian Tyranny,</hi> which preſently after him, his Son <hi>Conſtan<g ref="char:EOLhyphen"/>tius</hi> exerciſed againſt the Aſſertors of the <hi>Trinity:</hi> and, the Church<g ref="char:EOLhyphen"/>es worldly power encreaſing as faſt, as the puri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y of Rel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gion did decreaſe, the <hi>Biſhops</hi> of <hi>Rome</hi> within a few years, gained to them<g ref="char:EOLhyphen"/>ſelves, and have ever ſince practiſed ſeverely againſt ſuch, whom th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y call <hi>Hereticks, i.</hi> Deniers of their Factious Doctrine; and op<g ref="char:EOLhyphen"/>poſers of their moſt Ungoſpel-like, but indeed moſt Politick and Prudentiall impoſitions.</p>
+            <p>Whoſe furious and bloudy-Tenets have, like ſubtle Poiſon, run through the Veines of almoſt all Profeſſors; ſcarce any ſort even
+<pb n="16" facs="tcp:33336:12"/> of Proteſtants, allowing to others that <hi>Liberty</hi> of <hi>Religion;</hi> which at the beginning of their Sects, they juſtly challenged to themſelves. Nor is there any Hope, that the world ſhould be freed from Cruel<g ref="char:EOLhyphen"/>ty, diſguiſed under the name of zeal, till it pleaſe God to informe all <hi>Magiſtrates,</hi> how far their Commiſſion reaches, that their pro<g ref="char:EOLhyphen"/>per Province is only over the Body, to repreſs and correct thoſe morall vices, to which our <hi>Outward</hi> man is ſubject: But as for Chri<g ref="char:EOLhyphen"/>ſtian Religion, ſince it is ſo <hi>Pure</hi> and <hi>Simple,</hi> ſo free from <hi>State</hi> and <hi>worldly magnificence,</hi> ſo <hi>Gentle</hi> and <hi>Complying</hi> with the meaneſt Chriſtian, and withall ſo remote from <hi>Harſhneſs, Rigour,</hi> and <hi>Se<g ref="char:EOLhyphen"/>verity;</hi> there the <hi>Magiſtrate</hi> moſt conſults Gods honour and his own duty, it being ſtrict to himſelf, he leavs all others in theſe <hi>Out<g ref="char:EOLhyphen"/>ward Ceremonies,</hi> to their Inward Convictions. Which <hi>Liberty,</hi> is ſo far from weakning, that it is indeed the ſecurity of a Throne; ſince beſides gaining the Peoples Love (eſpecially the moſt Conſci<g ref="char:EOLhyphen"/>encious and ſober of them) it doth in a ſpeciall manner entitle him to Gods Protection: Since in not pretending to be wiſer then God, he gives Religion the free and Undiſturbed Paſſage, which our Sa<g ref="char:EOLhyphen"/>viour ſeems by his Life and Death to have opened for it.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:33336:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
